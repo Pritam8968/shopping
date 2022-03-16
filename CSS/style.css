@@ -38,8 +38,11 @@ i {
 	padding: 9px;
 	border-radius: 5px;
 }
+.search {
+	width: 60%;
+}
 .search-box {
-	width: 1000px;
+	width: 90%;
 	border-radius: 10px;
 	height: 34px;
 	padding: 5px 15px;

@@ -7,7 +7,7 @@ body {
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 header img {
-	width: 3%;
+	width: 46.075px;
 }
 #navbar-1 {
 	display: flex;
@@ -83,4 +83,13 @@ input[type="text"]::placeholder {
 }
 .carousel-item {
 	height: 300px;
+}
+footer {
+	background-color: #000000cc;
+	height: 300px;
+	text-align: center;
+	color: white;
+}
+footer h2 {
+	padding-top: 142px;
 }

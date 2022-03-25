@@ -84,6 +84,29 @@ input[type="text"]::placeholder {
 .carousel-item {
 	height: 300px;
 }
+.big-container {
+	display: flex;
+	margin: 35px;
+	justify-content: space-around;
+}
+.container {
+	margin: 20px;
+	padding: 10px;
+	border: 1px solid black;
+	border-radius: 5px;
+	box-shadow: 3px 3px 2px rgba(0, 0, 0, 0.377);
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.container-button {
+	margin: 15px;
+	padding: 5px 10px;
+	border: none;
+	background-color: #29870c78;
+	color: white;
+	height: 34px;
+}
 footer {
 	background-color: #000000cc;
 	height: 300px;
